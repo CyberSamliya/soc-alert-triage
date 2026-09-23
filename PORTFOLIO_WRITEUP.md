@@ -37,4 +37,5 @@ Correlation is currently source-IP-only, so an attack chain where the compromise
 
 ## Repo
 
-`github.com/YOUR-USERNAME/soc-alert-triage` *(update once pushed)*
+   [github.com/CyberSamliya/soc-alert-triage](https://github.com/CyberSamliya/soc-alert-triage)
+Update repo link
